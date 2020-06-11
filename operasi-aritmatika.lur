@@ -1,0 +1,34 @@
+# operasi aritmatika
+
+# Penjumlahan
+10+22
+
+# Pengurangan
+100-1
+
+# Perkalian
+40*999
+
+# Pembagian
+4/2
+
+# dengan variabel
+
+a=4
+b=2
+
+# Penjumlahan
+lout "Hasil dari Penjumlahan" 
+lout a+b
+
+# Pengurangan
+lout "Hasil dari Pengurangan"
+lout a-b
+
+# Perkalian
+lout "Hasil dari Perkalian" 
+lout a*b
+
+# Pembagian
+lout "Hasil dari Perkalian" 
+lout a/b
