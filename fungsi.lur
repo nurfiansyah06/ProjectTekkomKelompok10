@@ -1,0 +1,4 @@
+# fungsi
+
+fun test() -> 1+2*7
+coba()
